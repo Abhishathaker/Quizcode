@@ -1,0 +1,173 @@
+body
+{
+    margin:0 auto;
+    height:100%;
+    width:100%;
+}
+#pagedetails
+{
+    background-color:#151a22;
+    width:60%;
+    height:100%;
+    position:absolute;
+}
+#loginregister
+{
+    background-color:#04a777;
+   float:right;
+    height:100%;
+    width:40%;
+    margin-left: 60%;
+    position:absolute;
+    
+}
+
+h1
+{
+    color: #ffffff;
+    font-size:35px;
+    font-style:normal;
+    margin-left:10%;
+    margin-top: 17%;
+    font-family: Segoe UI light;
+    font-weight: normal;
+    
+    
+}
+.heading
+{
+    color:#51575b;
+    margin-left: 10%;
+    font-family:Segoe UI light;
+    font-weight:normal;
+    font-size:18px;
+    
+}
+.registeration
+{
+    width:25%;
+    margin-bottom:4%;
+    
+}
+img
+{
+    margin-left:10%;
+    position:relative;
+}
+.registeration1
+{
+    width:25%;
+}
+.loginfacebook
+{
+    width:25%;
+    position:absolute;
+
+    
+}
+.advantage
+{
+    margin-left:10%;
+   font-family:Segoe UI light;
+    color:#5d6266;
+    font-weight:normal;
+    font-size:18px;
+}
+.formheading
+{
+    margin-left:10%;
+    font-family:Segoe UI light;
+    color:#d1efe7;
+    font-size:18px;
+    font-size:35px;
+    margin-top:2%;
+    
+}
+input[type="checkbox"]
+{
+    width:5%;
+}
+.form1
+{
+    margin-top:25%;
+}
+
+.formheading3
+{
+    margin-left:10%;
+    font-family:Segoe UI light;
+    margin-top:20%;
+}
+   
+    
+
+.form1heading
+{
+    margin-left:10%;
+    font-family:Segoe UI light;
+    color:#dcffff;
+    font-size:35px;
+  
+    margin-bottom: 2%;
+      margin-top:-4%;
+}
+input{
+    
+    margin-left:10%;
+    font-family:Segoe UI light;
+    
+    font-size:16px;
+    width:60%;
+    color:#01a675;
+
+    border-color: #04a777;
+    border-style:solid;
+    border-radius: 3px;
+    
+  
+    
+}
+#resetpwd
+{
+    margin-left:10%;
+
+
+    
+}
+a{
+    text-decoration:none;
+    color:#d1efe7;
+}
+.programming
+{
+    margin-left:10%;
+    font-family:Segoe UI light;
+    font-size:16px;
+    width:60%;
+    color:#01a675;
+}
+input::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:#01a675;
+}
+input::-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: #01a675;
+   opacity:  1;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #01a675;
+   opacity:  1;
+}
+input::-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:   #01a675;
+}
+
+input[type="submit"]
+{
+    margin-left:10%;
+    background-color:#ffffff;
+    color:#00a26f;
+    font-family:Segoe UI light;
+    font-size:16px;
+    height:7%;
+    
+}
